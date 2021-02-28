@@ -1,8 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2019-06-28T11:17:31.734Z,8.4069,-82.8409,22.89,4.4,mb,,82,0.413,0.81,us,us700046i1,2019-06-28T12:08:43.681Z,"3km NE of Finca Blanco Numero Uno, Panama",earthquake,5.6,6.4,0.067,64,reviewed,us,us
-2019-06-28T09:24:08.880Z,37.5128326,-118.7975006,6.01,2.8,md,26,116,0.08105,0.05,nc,nc73203191,2019-06-28T11:50:03.687Z,"12km WSW of Toms Place, CA",earthquake,0.26,1,0.17,31,automatic,nc,nc
-2019-06-28T08:30:42.866Z,-29.3884,-70.916,81.42,5,mww,,89,0.42,0.72,us,us700046ge,2019-06-28T12:13:26.262Z,"66km NNE of La Serena, Chile",earthquake,6.6,4.2,0.061,26,reviewed,us,us
-2019-06-28T07:39:53.710Z,19.4121666,-155.2940063,-0.07,2.6,ml,17,78,0.007904,0.2,hv,hv71013771,2019-06-28T07:45:33.560Z,"6km WSW of Volcano, Hawaii",earthquake,0.22,0.3,0.5,16,automatic,hv,hv
-2019-06-28T07:04:22.443Z,8.2629,126.0562,35,4.7,mb,,109,1.276,0.88,us,us700046fs,2019-06-28T07:51:43.040Z,"12km NE of Bunawan, Philippines",earthquake,10.9,2,0.063,77,reviewed,us,us
-2019-06-28T06:16:59.220Z,35.7886734,-96.68558502,0.05868101865,2.64,ml,58,91.96224213,0.1456306726,0.7880776901,ok,ok2019mnrz,2019-06-28T09:32:24.365Z,"5km NNW of Stroud, Oklahoma",earthquake,1.834412013,1.268226432,,43,automatic,ok,ok
-2019-06-28T05:29:52.514Z,-22.4517,-65.9671,257.7,4.2,mb,,63,2.102,0.7,us,us700046ey,2019-06-28T08:51:25.495Z,"40km NW of Abra Pampa, Argentina",earthquake,9.4,3.9,0.186,8,reviewed,us,us
